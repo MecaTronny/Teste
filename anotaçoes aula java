@@ -1,0 +1,10 @@
+lexica = ortografia
+sintatica = gramática
+IDE= conjunto de software utilizada para construçao de programas
+IDE: Vs studio
+
+comando do sistema java para escrever a linha em parentesis
+
+system.out.println("ola");
+comando com uma linha escrita de lógica "print" que faz a maquina mopstrar na tela o que estiver selecionado entre as aspas no parentesis
+
